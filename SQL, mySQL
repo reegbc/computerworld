@@ -1,7 +1,10 @@
 SQL
 
+Create New Record
 Update Current Record 
-Insert New File 
+Create New File 
+Update Current File
+Insert Memo
 Select Inactive Record 
 Delete Inactive Record 
 Select Inactive File 
